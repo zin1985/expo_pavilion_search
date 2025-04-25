@@ -1,0 +1,570 @@
+[
+  {
+    "timestamp": "2025-04-25T13:59:15.933786",
+    "country": "ソロモン諸島",
+    "query": "ソロモン諸島 パビリオン 大阪万博",
+    "search_result": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "request": [
+          {
+            "title": "Google Custom Search - ソロモン諸島 パビリオン 大阪万博",
+            "totalResults": "1850",
+            "searchTerms": "ソロモン諸島 パビリオン 大阪万博",
+            "count": 3,
+            "startIndex": 1,
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "55d8d7f5997664ab7"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - ソロモン諸島 パビリオン 大阪万博",
+            "totalResults": "1850",
+            "searchTerms": "ソロモン諸島 パビリオン 大阪万博",
+            "count": 3,
+            "startIndex": 4,
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "55d8d7f5997664ab7"
+          }
+        ]
+      },
+      "context": {
+        "title": "google"
+      },
+      "searchInformation": {
+        "searchTime": 0.250813,
+        "formattedSearchTime": "0.25",
+        "totalResults": "1850",
+        "formattedTotalResults": "1,850"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "新たに9か国から大阪・関西万博への公式参加が表明されました ...",
+          "htmlTitle": "新たに9か国から<b>大阪</b>・関西<b>万博</b>への公式参加が表明されました ...",
+          "link": "https://www.expo2025.or.jp/news/news-20220531-01/",
+          "displayLink": "www.expo2025.or.jp",
+          "snippet": "2022/05/31 ... このたび、北マケドニア共和国、ケニア共和国、サモア独立国、シンガポール共和国、ソロモン諸島 ... 海外パビリオン · 国内パビリオン · シグネチャー ...",
+          "htmlSnippet": "2022/05/31 <b>...</b> このたび、北マケドニア共和国、ケニア共和国、サモア独立国、シンガポール共和国、<b>ソロモン諸島</b> ... 海外<b>パビリオン</b> &middot; 国内<b>パビリオン</b> &middot; シグネチャー&nbsp;...",
+          "formattedUrl": "https://www.expo2025.or.jp/news/news-20220531-01/",
+          "htmlFormattedUrl": "https://www.expo2025.or.jp/news/news-20220531-01/",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcwk6a-16170OxP3LYUWCf0y051BM9Ie9DudE-0-s9bixXPXlZJVY7CGw_&s",
+                "width": "299",
+                "height": "168"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://www.expo2025.or.jp/wp/wp-content/uploads/rogo-300x169-1.jpg",
+                "og:type": "article",
+                "og:image:width": "300",
+                "og:site_name": "EXPO 2025　大阪・関西万博公式Webサイト",
+                "og:title": "新たに9か国から大阪・関西万博への公式参加が表明されました | EXPO 2025　大阪・関西万博公式Webサイト",
+                "og:image:height": "169",
+                "og:image:type": "image/jpeg",
+                "og:description": "２０２５年の万博、日本、大阪・関西で開催！テーマは「いのち輝く未来社会のデザイン」。",
+                "url": "https://www.expo2025.or.jp/news/news-20220531-01/",
+                "article:modified_time": "2025-01-23T06:56:52+00:00",
+                "viewport": "width=device-width, maximum-scale=1, user-scalable=no, initial-scale=1",
+                "og:locale": "ja_JP",
+                "position": "2",
+                "og:url": "https://www.expo2025.or.jp/news/news-20220531-01/",
+                "format-detection": "telephone=no"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://www.expo2025.or.jp/wp/wp-content/uploads/rogo-300x169-1.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "２０２５年日本国際博覧会（大阪・関西万博） の進捗状況",
+          "htmlTitle": "２０２５年日本国際博覧会（<b>大阪</b>・関西<b>万博</b>） の進捗状況",
+          "link": "https://www.cas.go.jp/jp/seisaku/expo_suisin_honbu/kankei_renraku/dai5/siryou1.pdf",
+          "displayLink": "www.cas.go.jp",
+          "snippet": "2024/09/25 ... トクリストファー・ネイビス、セントルシア、ソロモン諸島、トリニダード・トバ ... 大阪ヘルスケアパビリオン. 関西パビリオン. EARTH MART. Dialogue ...",
+          "htmlSnippet": "2024/09/25 <b>...</b> トクリストファー・ネイビス、セントルシア、<b>ソロモン諸島</b>、トリニダード・トバ ... <b>大阪</b>ヘルスケア<b>パビリオン</b>. 関西<b>パビリオン</b>. EARTH MART. Dialogue&nbsp;...",
+          "formattedUrl": "https://www.cas.go.jp/jp/seisaku/expo_suisin_honbu/.../siryou1.pdf",
+          "htmlFormattedUrl": "https://www.cas.go.jp/jp/seisaku/expo_suisin_honbu/.../siryou1.pdf",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxbgmeCRFosT-A1yuygG954mG0Vu4uOfwQKlO4tfyaqAvsdRW6jW33lwSW&s",
+                "width": "259",
+                "height": "194"
+              }
+            ],
+            "metatags": [
+              {
+                "moddate": "D:20240925172605+09'00'",
+                "creationdate": "D:20240925160345+09'00'",
+                "creator": "PowerPoint 用 Acrobat PDFMaker 24",
+                "producer": "Adobe PDF Library 24.3.144",
+                "contenttypeid": "0x010100C939BB6207B2534CAD362006FEC9D553",
+                "order": "20200"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "x-raw-image:///e93a723e568109406311c1bfb96783dd96dce1bd666a873dc5b20a7583b5b039"
+              }
+            ]
+          },
+          "mime": "application/pdf",
+          "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "パビリオン紹介 大阪・関西万博2025｜NHK",
+          "htmlTitle": "<b>パビリオン</b>紹介 <b>大阪</b>・関西<b>万博</b>2025｜NHK",
+          "link": "https://www3.nhk.or.jp/news/special/osaka_expo/pavilion/",
+          "displayLink": "www3.nhk.or.jp",
+          "snippet": "... 【NHK】大阪・関西万博2025のパビリオン紹介 海外パビリオン ... ソロモン諸島（コモンズA）. タイ王国. 大韓民国. タジキスタン共和国（コモンズD ...",
+          "htmlSnippet": "... 【NHK】<b>大阪</b>・関西<b>万博</b>2025の<b>パビリオン</b>紹介 海外<b>パビリオン</b> ... <b>ソロモン諸島</b>（コモンズA）. タイ王国. 大韓民国. タジキスタン共和国（コモンズD&nbsp;...",
+          "formattedUrl": "https://www3.nhk.or.jp/news/special/osaka_expo/pavilion/",
+          "htmlFormattedUrl": "https://www3.nhk.or.jp/news/special/osaka_expo/pavilion/",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT13VjRbWtqWkMVctPKdSOaN_3QS3EV2ZKgtk00pKP8i-pUOrcEGFAN414P&s",
+                "width": "225",
+                "height": "225"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "http://www3.nhk.or.jp/news/special/osaka_expo/images/og_image.jpg",
+                "msapplication-config": "/news/browserconfig.xml",
+                "copyright": "NHK(Japan Broadcasting Corporation)",
+                "twitter:card": "summary_large_image",
+                "theme-color": "#0076d1",
+                "og:site_name": "NHK NEWS WEB",
+                "rating": "general",
+                "msapplication-tileimage": "/news/special/osaka_expo/images/touch-icon192x192.png",
+                "og:description": "【NHK】大阪・関西万博2025のパビリオン紹介 海外パビリオン、国内パビリオン、シグネチャーパビリオン及びその他施設のブース位置を掲載しています。",
+                "twitter:creator": "@nhk_news",
+                "og:image:secure_url": "https://www3.nhk.or.jp/news/special/osaka_expo/images/og_image.jpg",
+                "twitter:site": "@nhk_news",
+                "content-language": "ja",
+                "coverage": "Japan",
+                "msapplication-tilecolor": "#0076d1",
+                "og:type": "article",
+                "author": "日本放送協会",
+                "targeted geographic area": "Japan",
+                "og:title": "パビリオン紹介 大阪・関西万博2025｜NHK",
+                "creation_date": "2025-04-11T00:00+09:00",
+                "fb:app_id": "157582317936888",
+                "viewport": "width=device-width,initial-scale=1",
+                "og:locale": "ja_JP",
+                "og:url": "https://www3.nhk.or.jp/news/special/osaka_expo/pavilion/",
+                "format-detection": "telephone=no"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "http://www3.nhk.or.jp/news/special/osaka_expo/images/og_image.jpg"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-04-25T13:59:19.091871",
+    "country": "イタリア",
+    "query": "イタリア パビリオン 大阪万博",
+    "search_result": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "request": [
+          {
+            "title": "Google Custom Search - イタリア パビリオン 大阪万博",
+            "totalResults": "6020000",
+            "searchTerms": "イタリア パビリオン 大阪万博",
+            "count": 3,
+            "startIndex": 1,
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "55d8d7f5997664ab7"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - イタリア パビリオン 大阪万博",
+            "totalResults": "6020000",
+            "searchTerms": "イタリア パビリオン 大阪万博",
+            "count": 3,
+            "startIndex": 4,
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "55d8d7f5997664ab7"
+          }
+        ]
+      },
+      "context": {
+        "title": "google"
+      },
+      "searchInformation": {
+        "searchTime": 0.292668,
+        "formattedSearchTime": "0.29",
+        "totalResults": "6020000",
+        "formattedTotalResults": "6,020,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "イタリアパビリオン also hosting the Holy See - 大阪・関西万博",
+          "htmlTitle": "<b>イタリアパビリオン</b> also hosting the Holy See - <b>大阪</b>・関西<b>万博</b>",
+          "link": "https://www.expo2025.or.jp/official-participant/italy/",
+          "displayLink": "www.expo2025.or.jp",
+          "snippet": "2024/01/12 ... パビリオンの中に入ると、イタリアの豊かな創造性へのオマージュを体現した劇場が来場者を迎えます。最新技術と伝統が融合した最高級の“Made in Italy”が ...",
+          "htmlSnippet": "2024/01/12 <b>...</b> <b>パビリオン</b>の中に入ると、<b>イタリア</b>の豊かな創造性へのオマージュを体現した劇場が来場者を迎えます。最新技術と伝統が融合した最高級の“Made in <b>Italy</b>”が&nbsp;...",
+          "formattedUrl": "https://www.expo2025.or.jp/official-participant/italy/",
+          "htmlFormattedUrl": "https://www.expo2025.or.jp/official-participant/italy/",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOFpc_8aV204pMDgCHh-2wcDI1bRcA6KJirJ57a8uvt1W018H6sLwIVI0&s",
+                "width": "310",
+                "height": "163"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://www.expo2025.or.jp/wp/wp-content/uploads/ogimg-04.jpg",
+                "og:type": "article",
+                "og:image:width": "1200",
+                "og:site_name": "EXPO 2025　大阪・関西万博公式Webサイト",
+                "og:title": "イタリアパビリオン also hosting the Holy See | EXPO 2025　大阪・関西万博公式Webサイト",
+                "og:image:height": "630",
+                "og:image:type": "image/jpeg",
+                "og:description": "イタリアパビリオンのテーマは「芸術は生命を再生する」です。建築家マリオ・キュシネラによる建築で、「ルネッサンスの理想都市」を近代的に再解釈しています。最新技術と伝統が融合した最高級の“Made in Italy”をイベントや展示で披露します。",
+                "article:modified_time": "2025-03-05T13:00:14+00:00",
+                "viewport": "width=device-width, maximum-scale=1, user-scalable=no, initial-scale=1",
+                "og:locale": "ja_JP",
+                "og:url": "https://www.expo2025.or.jp/official-participant/italy/",
+                "format-detection": "telephone=no"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://www.expo2025.or.jp/wp/wp-content/uploads/ogimg-04.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "イタリア館 - L'ITALIA A EXPO 2025 OSAKA",
+          "htmlTitle": "イタリア館 - L'ITALIA A EXPO 2025 OSAKA",
+          "link": "https://www.italyexpo2025osaka.it/ja/itariaguan",
+          "displayLink": "www.italyexpo2025osaka.it",
+          "snippet": "2025 年大阪・関西万博イタリアパビリオン、MCA（Mario Cucinella Architects）によるプロジェクト ビジュアル：MCAビジュアル スケッチ：MCAアーカイブ. 大阪万博2025の ...",
+          "htmlSnippet": "2025 年大阪・関西万博<b>イタリアパビリオン</b>、MCA（Mario Cucinella Architects）によるプロジェクト ビジュアル：MCAビジュアル スケッチ：MCAアーカイブ. <b>大阪万博</b>2025の&nbsp;...",
+          "formattedUrl": "https://www.italyexpo2025osaka.it/ja/itariaguan",
+          "htmlFormattedUrl": "https://www.italyexpo2025osaka.it/ja/itariaguan",
+          "pagemap": {
+            "metatags": [
+              {
+                "og:image": "https://cms.italyexpo2025osaka.it/sites/default/files/media/image/MCA_Padiglione_Italia_Expo_2025_Osaka_Interni_Visual_by_MCA_Visual_1920x1080.jpg",
+                "og:type": "website",
+                "twitter:card": "summary_large_image",
+                "twitter:title": "イタリア館",
+                "og:site_name": "L'ITALIA A EXPO 2025 OSAKA",
+                "og:title": "イタリア館",
+                "language": "ja",
+                "canonical": "https://www.italyexpo2025osaka.it/ja/itariaguan",
+                "og:description": "2025年大阪万博のイタリア館は、建築家マリオ・クチネッラ氏",
+                "twitter:image": "https://cms.italyexpo2025osaka.it/sites/default/files/media/image/MCA_Padiglione_Italia_Expo_2025_Osaka_Interni_Visual_by_MCA_Visual_1920x1080.jpg",
+                "viewport": "width=device-width, initial-scale=1",
+                "twitter:description": "2025年大阪万博のイタリア館は、建築家マリオ・クチネッラ氏",
+                "og:url": "https://www.italyexpo2025osaka.it/ja/itariaguan"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://cms.italyexpo2025osaka.it/sites/default/files/media/image/MCA_Padiglione_Italia_Expo_2025_Osaka_Interni_Visual_by_MCA_Visual_1920x1080.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "【速報】\"万博の華\"海外パビリオン イタリア館開館式 目玉は古代 ...",
+          "htmlTitle": "【速報】&quot;<b>万博</b>の華&quot;海外<b>パビリオン イタリア</b>館開館式 目玉は古代 ...",
+          "link": "https://news.yahoo.co.jp/articles/28aa6c363940c070f628f815cc90f285375615fd",
+          "displayLink": "news.yahoo.co.jp",
+          "snippet": "2025/04/13 ... 13日に開幕した大阪・関西万博は「いのち輝く未来社会のデザイン」をテーマに158の国・地域が参加します。万博会場のシンボル「大屋根リング」の内側 ...",
+          "htmlSnippet": "2025/04/13 <b>...</b> 13日に開幕した<b>大阪</b>・関西<b>万博</b>は「いのち輝く未来社会のデザイン」をテーマに158の国・地域が参加します。<b>万博</b>会場のシンボル「大屋根リング」の内側&nbsp;...",
+          "formattedUrl": "https://news.yahoo.co.jp/.../28aa6c363940c070f628f815cc90f285375615f...",
+          "htmlFormattedUrl": "https://news.yahoo.co.jp/.../28aa6c363940c070f628f815cc90f285375615f...",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-hHBqthfCThwUCcBEWaIOfDpJ1yAC-vXvSbjpjlshcFcFGVpT2L2qQNo&s",
+                "width": "300",
+                "height": "168"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-06154212-ytv-000-2-view.jpg?exp=10800",
+                "twitter:app:url:iphone": "yjtrend://d/hdl/20250413-06154212-ytv-l27",
+                "twitter:app:id:googleplay": "jp.co.yahoo.android.news",
+                "og:image:width": "640",
+                "twitter:card": "summary_large_image",
+                "og:site_name": "Yahoo!ニュース",
+                "al:android:package": "jp.co.yahoo.android.news",
+                "twitter:app:name:googleplay": "Yahoo!ニュース",
+                "msapplication-tileimage": "https://s.yimg.jp/c/icon/s/bsc/2.0/news144.png",
+                "twitter:app:id:iphone": "407906756",
+                "al:ios:url": "yjtrend://d/hdl/20250413-06154212-ytv-l27",
+                "og:description": "　13日に開幕した大阪・関西万博は「いのち輝く未来社会のデザイン」をテーマに158の国・地域が参加します。万博会場のシンボル「大屋根リング」の内側には「万博の華」とも呼ばれる海外パビリオンが集まって",
+                "twitter:image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-06154212-ytv-000-2-view.jpg?exp=10800",
+                "al:ios:app_store_id": "407906756",
+                "twitter:site": "@YahooNewsTopics",
+                "twitter:app:country": "jp",
+                "pubdate": "2025-04-13T15:37:00+09:00",
+                "msapplication-tilecolor": "#FFFFFF",
+                "og:type": "article",
+                "twitter:title": "【速報】\"万博の華\"海外パビリオン　イタリア館開館式　目玉は古代ローマの像「アトラス」日本初公開（読売テレビ） - Yahoo!ニュース",
+                "al:ios:app_name": "Yahoo!ニュース",
+                "msvalidate.01": "23622BF224ED75EAF67061E9A6003026",
+                "og:title": "【速報】\"万博の華\"海外パビリオン　イタリア館開館式　目玉は古代ローマの像「アトラス」日本初公開（読売テレビ） - Yahoo!ニュース",
+                "og:image:height": "360",
+                "al:android:url": "yjnews://d/hdl/20250413-06154212-ytv-l27",
+                "fb:app_id": "276725822409153",
+                "twitter:app:url:googleplay": "yjnews://d/hdl/20250413-06154212-ytv-l27",
+                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,user-scalable=yes,viewport-fit=cover",
+                "twitter:description": "　13日に開幕した大阪・関西万博は「いのち輝く未来社会のデザイン」をテーマに158の国・地域が参加します。万博会場のシンボル「大屋根リング」の内側には「万博の華」とも呼ばれる海外パビリオンが集まって",
+                "og:locale": "ja_JP",
+                "og:url": "https://news.yahoo.co.jp/articles/28aa6c363940c070f628f815cc90f285375615fd",
+                "twitter:app:name:iphone": "Yahoo!ニュース",
+                "al:android:app_name": "Yahoo!ニュース",
+                "format-detection": "telephone=no"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-06154212-ytv-000-2-view.jpg?exp=10800"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-04-25T13:59:22.258458",
+    "country": "インドネシア",
+    "query": "インドネシア パビリオン 大阪万博",
+    "search_result": {
+      "kind": "customsearch#search",
+      "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries": {
+        "request": [
+          {
+            "title": "Google Custom Search - インドネシア パビリオン 大阪万博",
+            "totalResults": "144000",
+            "searchTerms": "インドネシア パビリオン 大阪万博",
+            "count": 3,
+            "startIndex": 1,
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "55d8d7f5997664ab7"
+          }
+        ],
+        "nextPage": [
+          {
+            "title": "Google Custom Search - インドネシア パビリオン 大阪万博",
+            "totalResults": "144000",
+            "searchTerms": "インドネシア パビリオン 大阪万博",
+            "count": 3,
+            "startIndex": 4,
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "55d8d7f5997664ab7"
+          }
+        ]
+      },
+      "context": {
+        "title": "google"
+      },
+      "searchInformation": {
+        "searchTime": 0.260187,
+        "formattedSearchTime": "0.26",
+        "totalResults": "144000",
+        "formattedTotalResults": "144,000"
+      },
+      "items": [
+        {
+          "kind": "customsearch#result",
+          "title": "インドネシアパビリオン | EXPO 2025 大阪・関西万博公式Webサイト",
+          "htmlTitle": "<b>インドネシアパビリオン</b> | EXPO 2025 <b>大阪</b>・関西<b>万博</b>公式Webサイト",
+          "link": "https://www.expo2025.or.jp/official-participant/indonesia/",
+          "displayLink": "www.expo2025.or.jp",
+          "snippet": "パビリオンのマスコット、TUMTUMにもぜひ会いに来てください。インドネシアの民族模様であるTRUNTUMから生まれた3人の小さな精霊です。自然の要素としての開花を描いた ...",
+          "htmlSnippet": "<b>パビリオン</b>のマスコット、TUMTUMにもぜひ会いに来てください。<b>インドネシア</b>の民族模様であるTRUNTUMから生まれた3人の小さな精霊です。自然の要素としての開花を描いた&nbsp;...",
+          "formattedUrl": "https://www.expo2025.or.jp/official-participant/indonesia/",
+          "htmlFormattedUrl": "https://www.expo2025.or.jp/official-participant/indonesia/",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOFpc_8aV204pMDgCHh-2wcDI1bRcA6KJirJ57a8uvt1W018H6sLwIVI0&s",
+                "width": "310",
+                "height": "163"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://www.expo2025.or.jp/wp/wp-content/uploads/ogimg-04.jpg",
+                "og:type": "article",
+                "og:image:width": "1200",
+                "og:site_name": "EXPO 2025　大阪・関西万博公式Webサイト",
+                "viewport": "width=device-width, maximum-scale=1, user-scalable=no, initial-scale=1",
+                "og:title": "インドネシアパビリオン | EXPO 2025　大阪・関西万博公式Webサイト",
+                "og:locale": "ja_JP",
+                "og:image:height": "630",
+                "og:image:type": "image/jpeg",
+                "og:url": "https://www.expo2025.or.jp/official-participant/indonesia/",
+                "og:description": "調和の中で繁栄する：自然、文化、未来 世界のダイナミズムと、持続可能な開発に挑戦するインドネシアの取り組みは、パビリオンの象徴である船と深く関係しています。様式美を極めたそびえ立つ船の形は、絶えず前進し、成長し、障害を乗...",
+                "format-detection": "telephone=no"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://www.expo2025.or.jp/wp/wp-content/uploads/ogimg-04.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2025年大阪・関西万博「インドネシアパビリオンの設計・建設 ...",
+          "htmlTitle": "2025年<b>大阪</b>・関西<b>万博</b>「<b>インドネシアパビリオン</b>の設計・建設 ...",
+          "link": "https://www.fujiya-net.co.jp/news/20240501",
+          "displayLink": "www.fujiya-net.co.jp",
+          "snippet": "2024/05/01 ... インドネシアが描く、自然と文化と未来への航海をパビリオンで表現 ... 2025年日本国際博覧会（大阪・関西万博）において、当社は西尾レントオール株式会社と ...",
+          "htmlSnippet": "2024/05/01 <b>...</b> <b>インドネシア</b>が描く、自然と文化と未来への航海を<b>パビリオン</b>で表現 ... 2025年日本国際博覧会（<b>大阪</b>・関西<b>万博</b>）において、当社は西尾レントオール株式会社と&nbsp;...",
+          "formattedUrl": "https://www.fujiya-net.co.jp/news/20240501",
+          "htmlFormattedUrl": "https://www.fujiya-net.co.jp/news/20240501",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSALzZCj7S-fTZYHjAiQJnmJaas_wrZDxMQj9yZs_ZZnvd-hRdL5DExrsJL&s",
+                "width": "300",
+                "height": "168"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://www.fujiya-net.co.jp/media/",
+                "og:type": "article",
+                "twitter:title": "2025年大阪・関西万博「インドネシアパビリオンの設計・建設プロジェクト」に参画|株式会社フジヤ",
+                "og:image:width": "1200",
+                "twitter:card": "summary_large_image",
+                "og:site_name": "株式会社フジヤ",
+                "og:title": "2025年大阪・関西万博「インドネシアパビリオンの設計・建設プロジェクト」に参画|株式会社フジヤ",
+                "og:image:height": "630",
+                "og:description": "インドネシアが描く、自然と文化と未来への航海をパビリオンで表現します｜株式会社フジヤ",
+                "og:image:secure_url": "https://www.fujiya-net.co.jp/media/",
+                "viewport": "width=device-width, initial-scale=1.0",
+                "twitter:description": "インドネシアが描く、自然と文化と未来への航海をパビリオンで表現します｜株式会社フジヤ",
+                "og:locale": "ja_JP",
+                "og:url": "https://www.fujiya-net.co.jp/news/20240501",
+                "format-detection": "telephone=no"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://www.fujiya-net.co.jp/media/YbhdpeO1yjy4UmCdvzYnXfKOLqKAzgM78egdagOE.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Expo2025 大阪・関西万博 | The Indonesia Pavilion / インドネシア ...",
+          "htmlTitle": "Expo2025 <b>大阪</b>・関西<b>万博</b> | The Indonesia <b>Pavilion</b> / <b>インドネシア</b> ...",
+          "link": "https://www.instagram.com/p/C6s6GRiu_ZW/",
+          "displayLink": "www.instagram.com",
+          "snippet": "2024/05/08 ... Photo by Expo2025 大阪・関西万博 on April 22, 2025. May be an. 1,218 likes.",
+          "htmlSnippet": "2024/05/08 <b>...</b> Photo by Expo2025 <b>大阪</b>・関西<b>万博</b> on April 22, 2025. May be an. 1,218 likes.",
+          "formattedUrl": "https://www.instagram.com/p/C6s6GRiu_ZW/",
+          "htmlFormattedUrl": "https://www.instagram.com/p/C6s6GRiu_ZW/",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1GeCsu28csm3RK9MY9fb51F2SIPW8wJ0il4x6aXjyzI1Vv9wkHTm6guw&s",
+                "width": "300",
+                "height": "168"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://scontent-atl3-2.cdninstagram.com/v/t39.30808-6/481231552_943715351267467_1915736471976791469_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=sBDbSoLXkMIQ7kNvwGcu__d&_nc_oc=AdmuDV8WWpTq_mrjR8uxJu-6AqICaEMPtKxlKB3CxolCNaNeBarhNGvF194MXeLPv3M&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=H8azFg5SShpSu4mtoHJ-aA&oh=00_AfGsiti1kuHGlcdLKj84H9lAoGbaHyduWMw4Ou_ItgSCMQ&oe=680EC993",
+                "theme-color": "#FFFFFF",
+                "twitter:card": "summary_large_image",
+                "og:site_name": "Instagram",
+                "al:android:package": "com.instagram.android",
+                "bingbot": "noarchive",
+                "medium": "image",
+                "al:ios:url": "instagram://media?id=3363318539589776982",
+                "og:description": "998 likes, 9 comments - expo2025japan on May 8, 2024: \"🇮🇩 The Indonesia Pavilion / インドネシアパビリオン\n\nインドネシアパビリオンは、豊かな可能性と明るい明日への希望を秘めた国としてだけでなく、世界の調和と進歩に貢献する世界の一員として、活気に満ちたキャンバスのように建ち上がります。\n「調和の繁栄：自然、文化、未来」というパビリオンのテーマは、インドネシアの本質を見事に表現しています。\n \nインドネシアパビリオンは、船の哲学からインスピレーションを得た伝統的なモチーフを未来的なセンスとシームレスに融合して作られます。\nパビリオンにそびえ立つボートの形は、絶えず前進し、成長し、障害を乗り越えて持続的に航行するというインドネシアの強いビジョンを象徴しています。\n\nThe Indonesia Pavilion stands as a vibrant canvas portraying not just a na",
+                "twitter:image": "https://scontent-atl3-2.cdninstagram.com/v/t39.30808-6/481231552_943715351267467_1915736471976791469_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=sBDbSoLXkMIQ7kNvwGcu__d&_nc_oc=AdmuDV8WWpTq_mrjR8uxJu-6AqICaEMPtKxlKB3CxolCNaNeBarhNGvF194MXeLPv3M&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=H8azFg5SShpSu4mtoHJ-aA&oh=00_AfGsiti1kuHGlcdLKj84H9lAoGbaHyduWMw4Ou_ItgSCMQ&oe=680EC993",
+                "al:ios:app_store_id": "389801252",
+                "twitter:site": "@instagram",
+                "instapp:owner_user_id": "27120693956",
+                "og:type": "article",
+                "twitter:title": "Expo2025 大阪・関西万博 (@expo2025japan) • Instagram photos and videos",
+                "al:ios:app_name": "Instagram",
+                "og:title": "Expo2025 大阪・関西万博 on Instagram: \"🇮🇩 The Indonesia Pavilion / インドネシアパビリオン\n\nインドネシアパビリオンは、豊かな可能性と明るい明日への希望を秘めた国としてだけでなく、世界の調和と進歩に貢献する世界の一員として、活気に満ちたキャンバスのように建ち上がります。\n「調和の繁栄：自然、文化、未来」というパビリオンのテーマは、インドネシアの本質を見事に表現しています。\n \nインドネシアパビリオンは、船の哲学からインスピレーションを得た伝統的なモチーフを未来的なセンスとシームレスに融合して作られます。\nパビリオンにそびえ立つボートの形は、絶えず前進し、成長し、障害を乗り越えて持続的に航行するというインドネシアの強いビジョンを象徴しています。\n\nThe Indonesia Pavilion stands as a vibrant canvas portraying not just a nation of a",
+                "twitter:maxage": "86400",
+                "color-scheme": "light",
+                "al:android:url": "https://www.instagram.com/p/C6s6GRiu_ZW/",
+                "fb:app_id": "124024574287414",
+                "apple-mobile-web-app-status-bar-style": "default",
+                "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+                "mobile-web-app-capable": "yes",
+                "og:url": "https://www.instagram.com/p/C6s6GRiu_ZW/",
+                "al:android:app_name": "Instagram"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3363318526620939077"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]
