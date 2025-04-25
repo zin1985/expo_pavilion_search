@@ -1,4 +1,4 @@
-name: Google Search and Gemini Summary
+name: Google Search and Gemini Summary with Web Scraping
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # 👈 GitHub Actions に push 権限を明示的に付与
+  contents: write
 
 jobs:
   search_and_summarize:
