@@ -21,7 +21,7 @@ def google_search(query):
 def gemini_summarize(texts):
     prompt = f"以下の検索結果から、大阪万博におけるパビリオンの参加状況を要約してください：\n\n{texts}"
     response = requests.post(
-        "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash:generateContent",
+        "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent",
         params={"key": GEMINI_API_KEY},
         json={"contents": [{"parts": [{"text": prompt}]}]}
     )
