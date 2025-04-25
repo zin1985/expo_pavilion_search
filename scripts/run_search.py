@@ -16,7 +16,7 @@ def google_search(query):
         "key": GOOGLE_API_KEY,
         "cx": GOOGLE_CX,
         "q": query,
-        "num": 3
+        "num": 10
     }
     response = requests.get(url, params=params)
     response.raise_for_status()
