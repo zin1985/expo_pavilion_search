@@ -36,7 +36,8 @@ jobs:
           git config user.name github-actions
           git config user.email actions@github.com
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git add data/results/*.json _posts/*.md
-          git add data/html_texts/*.json
+      
+          git pull --rebase
+          git add data/results/*.json data/html_texts/*.json _posts/*.md || true
           git commit -m "Update results [skip ci]" || echo "No changes to commit"
           git push
