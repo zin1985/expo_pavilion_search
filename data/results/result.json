@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-25T14:13:59.766192",
+    "timestamp": "2025-04-25T14:16:30.957900",
     "country": "ソロモン諸島",
     "query": "ソロモン諸島 パビリオン 大阪万博",
     "search_result": {
@@ -41,7 +41,7 @@
         "title": "google"
       },
       "searchInformation": {
-        "searchTime": 0.210915,
+        "searchTime": 0.212173,
         "formattedSearchTime": "0.21",
         "totalResults": "1850",
         "formattedTotalResults": "1,850"
@@ -186,7 +186,7 @@
     }
   },
   {
-    "timestamp": "2025-04-25T14:14:02.922128",
+    "timestamp": "2025-04-25T14:16:34.181826",
     "country": "イタリア",
     "query": "イタリア パビリオン 大阪万博",
     "search_result": {
@@ -227,8 +227,8 @@
         "title": "google"
       },
       "searchInformation": {
-        "searchTime": 0.158821,
-        "formattedSearchTime": "0.16",
+        "searchTime": 0.268915,
+        "formattedSearchTime": "0.27",
         "totalResults": "6020000",
         "formattedTotalResults": "6,020,000"
       },
@@ -377,7 +377,7 @@
     }
   },
   {
-    "timestamp": "2025-04-25T14:14:06.007369",
+    "timestamp": "2025-04-25T14:16:37.215185",
     "country": "インドネシア",
     "query": "インドネシア パビリオン 大阪万博",
     "search_result": {
@@ -418,8 +418,8 @@
         "title": "google"
       },
       "searchInformation": {
-        "searchTime": 0.284941,
-        "formattedSearchTime": "0.28",
+        "searchTime": 0.209984,
+        "formattedSearchTime": "0.21",
         "totalResults": "144000",
         "formattedTotalResults": "144,000"
       },
@@ -461,6 +461,50 @@
             "cse_image": [
               {
                 "src": "https://www.expo2025.or.jp/wp/wp-content/uploads/ogimg-04.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "2025年大阪・関西万博「インドネシアパビリオンの設計・建設 ...",
+          "htmlTitle": "2025年<b>大阪</b>・関西<b>万博</b>「<b>インドネシアパビリオン</b>の設計・建設 ...",
+          "link": "https://www.fujiya-net.co.jp/news/20240501",
+          "displayLink": "www.fujiya-net.co.jp",
+          "snippet": "2024/05/01 ... インドネシアが描く、自然と文化と未来への航海をパビリオンで表現 ... 2025年日本国際博覧会（大阪・関西万博）において、当社は西尾レントオール株式会社と ...",
+          "htmlSnippet": "2024/05/01 <b>...</b> <b>インドネシア</b>が描く、自然と文化と未来への航海を<b>パビリオン</b>で表現 ... 2025年日本国際博覧会（<b>大阪</b>・関西<b>万博</b>）において、当社は西尾レントオール株式会社と&nbsp;...",
+          "formattedUrl": "https://www.fujiya-net.co.jp/news/20240501",
+          "htmlFormattedUrl": "https://www.fujiya-net.co.jp/news/20240501",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSALzZCj7S-fTZYHjAiQJnmJaas_wrZDxMQj9yZs_ZZnvd-hRdL5DExrsJL&s",
+                "width": "300",
+                "height": "168"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://www.fujiya-net.co.jp/media/",
+                "og:type": "article",
+                "twitter:title": "2025年大阪・関西万博「インドネシアパビリオンの設計・建設プロジェクト」に参画|株式会社フジヤ",
+                "og:image:width": "1200",
+                "twitter:card": "summary_large_image",
+                "og:site_name": "株式会社フジヤ",
+                "og:title": "2025年大阪・関西万博「インドネシアパビリオンの設計・建設プロジェクト」に参画|株式会社フジヤ",
+                "og:image:height": "630",
+                "og:description": "インドネシアが描く、自然と文化と未来への航海をパビリオンで表現します｜株式会社フジヤ",
+                "og:image:secure_url": "https://www.fujiya-net.co.jp/media/",
+                "viewport": "width=device-width, initial-scale=1.0",
+                "twitter:description": "インドネシアが描く、自然と文化と未来への航海をパビリオンで表現します｜株式会社フジヤ",
+                "og:locale": "ja_JP",
+                "og:url": "https://www.fujiya-net.co.jp/news/20240501",
+                "format-detection": "telephone=no"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://www.fujiya-net.co.jp/media/YbhdpeO1yjy4UmCdvzYnXfKOLqKAzgM78egdagOE.jpg"
               }
             ]
           }
@@ -516,50 +560,6 @@
             "cse_image": [
               {
                 "src": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3363318526620939077"
-              }
-            ]
-          }
-        },
-        {
-          "kind": "customsearch#result",
-          "title": "2025年大阪・関西万博「インドネシアパビリオンの設計・建設 ...",
-          "htmlTitle": "2025年<b>大阪</b>・関西<b>万博</b>「<b>インドネシアパビリオン</b>の設計・建設 ...",
-          "link": "https://www.fujiya-net.co.jp/news/20240501",
-          "displayLink": "www.fujiya-net.co.jp",
-          "snippet": "2024/05/01 ... インドネシアが描く、自然と文化と未来への航海をパビリオンで表現 ... 2025年日本国際博覧会（大阪・関西万博）において、当社は西尾レントオール株式会社と ...",
-          "htmlSnippet": "2024/05/01 <b>...</b> <b>インドネシア</b>が描く、自然と文化と未来への航海を<b>パビリオン</b>で表現 ... 2025年日本国際博覧会（<b>大阪</b>・関西<b>万博</b>）において、当社は西尾レントオール株式会社と&nbsp;...",
-          "formattedUrl": "https://www.fujiya-net.co.jp/news/20240501",
-          "htmlFormattedUrl": "https://www.fujiya-net.co.jp/news/20240501",
-          "pagemap": {
-            "cse_thumbnail": [
-              {
-                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSALzZCj7S-fTZYHjAiQJnmJaas_wrZDxMQj9yZs_ZZnvd-hRdL5DExrsJL&s",
-                "width": "300",
-                "height": "168"
-              }
-            ],
-            "metatags": [
-              {
-                "og:image": "https://www.fujiya-net.co.jp/media/",
-                "og:type": "article",
-                "twitter:title": "2025年大阪・関西万博「インドネシアパビリオンの設計・建設プロジェクト」に参画|株式会社フジヤ",
-                "og:image:width": "1200",
-                "twitter:card": "summary_large_image",
-                "og:site_name": "株式会社フジヤ",
-                "og:title": "2025年大阪・関西万博「インドネシアパビリオンの設計・建設プロジェクト」に参画|株式会社フジヤ",
-                "og:image:height": "630",
-                "og:description": "インドネシアが描く、自然と文化と未来への航海をパビリオンで表現します｜株式会社フジヤ",
-                "og:image:secure_url": "https://www.fujiya-net.co.jp/media/",
-                "viewport": "width=device-width, initial-scale=1.0",
-                "twitter:description": "インドネシアが描く、自然と文化と未来への航海をパビリオンで表現します｜株式会社フジヤ",
-                "og:locale": "ja_JP",
-                "og:url": "https://www.fujiya-net.co.jp/news/20240501",
-                "format-detection": "telephone=no"
-              }
-            ],
-            "cse_image": [
-              {
-                "src": "https://www.fujiya-net.co.jp/media/YbhdpeO1yjy4UmCdvzYnXfKOLqKAzgM78egdagOE.jpg"
               }
             ]
           }
